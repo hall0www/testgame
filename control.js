@@ -1,1 +1,2 @@
-text1.x = 200
+text1.x = 800;
+text1.alpha = 0.5;
